@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Piwee and the Lost Shopping Trolley - A Children's Book by Daxon Montclaire</title>
+    <meta name="description" content="Meet Piwee – The Brave Little Supermarket Shopping Trolley! A fun children’s book by Australian author Daxon Montclaire about friendship, kindness, and why shopping trolleys deserve respect. Available on Kindle eBook.">
+    <meta name="keywords" content="Piwee and the Lost Shopping Trolley, Daxon Montclaire, children's book, kids story, shopping trolley, supermarket, Kindle eBook, Australian author, friendship, kindness, sustainability, picture book">
+    
+    <meta property="og:title" content="Piwee and the Lost Shopping Trolley by Daxon Montclaire">
+    <meta property="og:description" content="Meet Piwee – The Brave Little Supermarket Shopping Trolley! A fun children’s book by Australian author Daxon Montclaire about friendship, kindness, and why shopping trolleys deserve respect.">
+    <meta property="og:image" content="Main book cover good.jpg"> <meta property="og:url" content="https://www.amazon.com.au/dp/B0F3823V4L">
+    <meta property="og:type" content="book">
+
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            min-height: 100vh;
+        }
+        .container {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            max-width: 800px;
+            width: 100%;
+            text-align: center;
+            box-sizing: border-box; /* Ensures padding is included in width */
+        }
+        h1 {
+            color: #2c3e50;
+            font-size: 2.2em;
+            margin-bottom: 10px;
+        }
+        h2 {
+            color: #34495e;
+            font-size: 1.5em;
+            margin-top: 5px;
+            margin-bottom: 20px;
+        }
+        .book-cover {
+            max-width: 300px;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            margin-bottom: 30px;
+            display: block; /* To center the image */
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .blurb {
+            font-size: 1.2em;
+            font-style: italic;
+            color: #555;
+            margin-bottom: 25px;
+        }
+        .description {
+            text-align: left;
+            margin-bottom: 30px;
+            padding: 0 15px; /* Add some padding for better readability on smaller screens */
+        }
+        .description p {
+            margin-bottom: 1em;
+        }
+        .buy-button {
+            display: inline-block;
+            background-color: #FF9900; /* Amazon's orange */
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.3em;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+            margin-bottom: 30px;
+        }
+        .buy-button:hover {
+            background-color: #E68A00;
+        }
+        .promo-text {
+            background-color: #e8f5e9; /* Light green */
+            border-left: 5px solid #4CAF50;
+            padding: 20px;
+            margin-top: 30px;
+            text-align: left;
+            font-size: 1.1em;
+            color: #333;
+            border-radius: 4px;
+        }
+        footer {
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #777;
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+            .container {
+                padding: 20px;
+            }
+            h1 {
+                font-size: 1.8em;
+            }
+            h2 {
+                font-size: 1.3em;
+            }
+            .buy-button {
+                padding: 12px 25px;
+                font-size: 1.1em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Piwee and the Lost Shopping Trolley</h1>
+        <h2>By Daxon Montclaire</h2>
+
+        <img src="Main book cover good.jpg" alt="Piwee and the Lost Shopping Trolley Book Cover" class="book-cover">
+
+        <p class="blurb">🛒 Meet Piwee – The Brave Little Supermarket Shopping Trolley! A fun children’s book about friendship, kindness, and why shopping trolleys deserve respect!</p>
+        
+        <a href="https://www.amazon.com.au/dp/B0F3823V4L" class="buy-button" target="_blank" rel="noopener noreferrer">Buy on Kindle (Australia)</a>
+
+        <div class="description">
+            <p>Available now on Kindle Ebook, "Piwee and the Lost Shopping Trolley" is a charming new kids' story by Australian author Daxon Montclaire.</p>
+            <p>Join Piwee and his trolley friends on a mission to rescue lost carts and learn the value of teamwork, patience, and listening to those with experience. A perfect story for young readers and supermarket adventurers!</p>
+            <p>This story is about young Piwee, a children sized supermarket shopping trolley. The General, a wise, and older adult supermarket shopping trolley is Piwee's mentor. He discusses with Piwee how to do his best and be a smart trolley who is hopeful Piwee will grow up to be like the adult shopping trolleys one day, but he must be patient, something Piwee is not. The General tells Piwee a story, when he was a young army recruit, he was given a whistle to use whenever he got into trouble and showed this to Piwee.</p>
+            <p>That evening Piwee hears that The General was taken away by a customer who had filled The General with a lot of groceries, and like many supermarket shopping trolleys in any town and city, these trolleys are discarded in the most unusual places, lost or in disrepair. Piwee is shocked at how many trolleys are taken out of the supermarket building, misplaced, and left to rust, so Piwee decides to go on a rescue mission by himself to find his mentor, The General, to the dismay of the other adult supermarket shopping trolleys in the supermarket where Piwee lives and works.</p>
+            <p>Piwee's journey takes him through the town, into a bushy area where he discovers many other shopping trolleys discarded by grassy banks and other muddy areas. Piwee rescues these trolleys who agree to join Piwee in his quest to find The General. During his search for The General, Piwee and the other rescued shopping trolleys roll on to find more lost trolleys, and soon hear a faint whistling sound. Piwee recognised the whistle and saw it was The General who was stuck by the side of a riverbank. Piwee and the trolleys help him to his wheels.</p>
+            <p>They are so glad to see each other and head home to the supermarket, to the delight of the other trolleys who were looking very concerned for Piwee's safety. The supermarket trolleys are cleaned up and the adult trolleys talk with Piwee to make sure he doesn't go off by himself again, indicating it is dangerous to do this. Although The General is happy to have been rescued, he also decides to have a chat with Piwee, offering some wise advice. Piwee realises his mistake and promises not to go off again by himself.</p>
+            <p>Soon after, the trolleys discuss how to stop these wonderful supermarket shopping trolleys from being taken away from the supermarket by their customers. Many ideas were received, and a plan of action was decided on.</p>
+            <p>Before they go to sleep for the night, The General rolls up to Piwee and decides to give Piwee his whistle, not for being brave, but just in case he needs help one day while he learns to make wiser decisions. Piwee is very happy that it all turned out well too, and he learned a lesson in listening to adult advice.</p>
+        </div>
+
+        <div class="promo-text">
+            <p>This story is not only a lesson on listening to responsible adult advice, but it also emphasises the dilemma of so many shopping trolleys being taken out of supermarket premises, discarded, and littering the streets, and other areas all over towns and cities worldwide, which costs these supermarkets, time, effort and money to retrieve them. This picture book supports sustainability awareness for kids and is perfect for community outreach programs and encourages respect for shared community resources.</p>
+        </div>
+
+        <footer>
+            <p>&copy; Daxon Montclaire. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
